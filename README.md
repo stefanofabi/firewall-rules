@@ -1,7 +1,5 @@
 # Firewall Rules Script
-This project is a 4evergaming tool that fetches firewall rules from a database and loads them into iptables. The setup includes a Python virtual environment and a scheduled task to update the rules every 24 hours.
-
-For more information about 4evergaming, visit [4evergaming](https://4evergaming.com.ar).
+This project is a [4evergaming](https://4evergaming.com.ar) tool that fetches firewall rules from a database and loads them into iptables. The setup includes a Python virtual environment and a scheduled task to update the rules every 24 hours.
 
 ## Requirements
 
